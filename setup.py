@@ -9,7 +9,8 @@ setup(
     license="Apache 2",
     long_description=open("README.md").read(),
     install_requires=[
-        "mmsegmentation @ git+https://github.com/open-mmlab/mmsegmentation.git@186572a3ce64ac9b6b37e66d58c76515000c3280",
+        #"mmsegmentation @ git+https://github.com/open-mmlab/mmsegmentation.git@186572a3ce64ac9b6b37e66d58c76515000c3280",
+        "mmsegmentation @ file://C:/Users/carellano.LEGION5PRO-O3OB/Documents/GitHub/hls-foundation-os/mmsegmentation",
         "rasterio",
         "rioxarray",
         "einops",
