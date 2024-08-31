@@ -5,3 +5,4 @@
 *build*
 *.tif
 mmsegmentation/
+data/hls_burn_scars/hls_burn_scars.tar.gz
